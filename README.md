@@ -59,3 +59,10 @@ Some of the things that I will be doing in the future on this repository are:
 ---
 
 Till then stay tuned. Also contributions are always welcome 🤗. You can create issues and build on the top of this app. The modelling prespective was never prioritized atleast for this case. But we can work around it. 
+
+
+### **Important references** 
+
+- [Deploying PyTorch Model to Production with FastAPI in CUDA-supported Docker](https://medium.com/@mingc.me/deploying-pytorch-model-to-production-with-fastapi-in-cuda-supported-docker-c161cca68bb8)
+
+- [Build with PyCaret, Deploy with FastAPI](https://towardsdatascience.com/build-with-pycaret-deploy-with-fastapi-333c710dc786)
