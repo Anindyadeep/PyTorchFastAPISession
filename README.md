@@ -3,7 +3,7 @@
 ![image](images/banner.png)
 
 
-This is the official repository for tutorial session [Deploying ML Powered applications using FastAPI and Docker](https://youtu.be/XYc5Klorf38). The session has been hosted by CORD AI [Website](https://cordai.org) |    [Twitter](https://twitter.com/CRforAi). 
+This is the official repository for tutorial session [Deploying ML Powered applications using FastAPI and Docker](https://www.youtube.com/watch?v=u1pfd43a-fk&feature=youtu.be). The session has been hosted by CORD AI [Website](https://cordai.org) |    [Twitter](https://twitter.com/CRforAi). 
 
 ### What does the tutorial teaches
 
