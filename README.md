@@ -63,6 +63,11 @@ Till then stay tuned. Also contributions are always welcome 🤗. You can create
 
 ### **Important references** 
 
+Below are some references, which makes this tutorial possible. Concepts are heavily inspired from these resources.
+
 - [Deploying PyTorch Model to Production with FastAPI in CUDA-supported Docker](https://medium.com/@mingc.me/deploying-pytorch-model-to-production-with-fastapi-in-cuda-supported-docker-c161cca68bb8)
 
 - [Build with PyCaret, Deploy with FastAPI](https://towardsdatascience.com/build-with-pycaret-deploy-with-fastapi-333c710dc786)
+
+- [Deploy Machine Learning Pipelines with Docker
+](https://www.moez.ai/2020/05/07/deploy-machine-learning-pipeline-using-docker-containers/)
